@@ -4,22 +4,22 @@
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 A **clean & legal** Windows licensing helper by **RAYHAN** — automates `slmgr.vbs` using your own valid product keys.  
-> ⚖️ No KMS / loader / cracks. 100% safe & legit.
+> ⚖️ **No KMS / loader / cracks** → 100% safe & legit.
 
 ---
 
 ## ✨ Features
-- 🔑 Install your genuine product key
-- ⚡ One-click online activation
-- 📜 Check Windows activation status
-- 🗑️ Uninstall current key & clear cache
+- 🔑 Install your genuine product key  
+- ⚡ One-click online activation  
+- 📜 Check Windows activation status  
+- 🗑️ Uninstall current key & clear cache  
 - 🗂️ Logs saved to `%ProgramData%\RAYHAN-Helper\log.txt`
 
 ---
 
 ## 🚀 Quick Start
-1. Download/clone this repo.
-2. Run `scripts/RAYHAN_Windows_Helper.cmd` as **Administrator**.
+1. **Download / clone** this repo  
+2. Run `scripts/RAYHAN_Windows_Helper.cmd` as **Administrator**  
 3. Choose an option from the menu:
    - (1) Check activation status  
    - (2) Install a genuine product key  
@@ -30,9 +30,16 @@ A **clean & legal** Windows licensing helper by **RAYHAN** — automates `slmgr.
 
 ## 📂 Repository Structure
 
+RAYHAN-Windows-Helper/
+├─ scripts/ # Batch menu entrypoint
+├─ src/ # PowerShell module
+├─ tests/ # Pester test stubs
+├─ .github/workflows/ # GitHub Actions release workflow
+├─ README.md
+└─ LICENSE
 
 
-
+---
 
 <h1 align="center">Hi 👋, I'm RAYHAN</h1>
 <h3 align="center">🚀 Paid Ads Specialist | Facebook & Google Ads | Founder @ Team RSB Digital</h3>
@@ -40,18 +47,18 @@ A **clean & legal** Windows licensing helper by **RAYHAN** — automates `slmgr.
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **Team RSB Digital**
-- 🌱 Learning **Laravel + WordPress + Ethical Hacking basics**
-- 💡 Interested in **Digital Marketing, Business Growth, and Client Success**
-- ⚡ Fun fact: Managing a home daycare while running ad campaigns!
+- 🔭 I’m currently working on **Team RSB Digital**  
+- 🌱 Learning **Laravel + WordPress + Ethical Hacking basics**  
+- 💡 Passionate about **Digital Marketing, Business Growth, and Client Success**  
+- ⚡ Fun fact: I manage a **home daycare** while running high-ROI ad campaigns!  
 
 ---
 
 ### 🛠️ Skills
-- 🎯 Meta Ads (Facebook & Instagram Advertising)  
-- 🔑 Google Ads (Search, Display, Video, Shopping)  
-- 📈 Conversion Tracking (Pixel, GA4, GTM)  
-- 🖥️ Web Tools (WordPress, Elementor, Laravel basics)  
+- 🎯 **Meta Ads** (Facebook & Instagram Advertising)  
+- 🔑 **Google Ads** (Search, Display, Video, Shopping)  
+- 📈 **Conversion Tracking** (Pixel, GA4, GTM)  
+- 🖥️ **Web Tools** (WordPress, Elementor, Laravel basics)  
 
 ---
 
@@ -72,9 +79,6 @@ A **clean & legal** Windows licensing helper by **RAYHAN** — automates `slmgr.
 
 ---
 
-
----
-
 ## 🧑‍💻 Author
 **RAYHAN**  
 🚀 Paid Ads Specialist & Tech Enthusiast  
@@ -85,4 +89,3 @@ A **clean & legal** Windows licensing helper by **RAYHAN** — automates `slmgr.
 ## ⚖️ License
 This project is licensed under the **MIT License**.  
 © 2025 **RAYHAN**
-
