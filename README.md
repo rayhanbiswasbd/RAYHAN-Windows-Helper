@@ -44,6 +44,20 @@ RAYHAN-Windows-Helper/
 └─ LICENSE
 
 
+# Repo clone করো
+git clone https://github.com/rayhanbiswasbd/RAYHAN-Windows-Helper.git
+cd RAYHAN-Windows-Helper
+
+# Zip unzip করো (Linux/Mac/WSL এ)
+unzip ../RAYHAN-Windows-Helper.zip -d .
+
+# Windows এ PowerShell দিয়ে
+Expand-Archive -Path ../RAYHAN-Windows-Helper.zip -DestinationPath .
+
+# Unzipped ফাইল repo তে যোগ করো
+git add .
+git commit -m "Unzipped project files"
+git push origin main
 
 ---
 
