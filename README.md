@@ -36,11 +36,17 @@ A **clean & legal** Windows licensing helper by **RAYHAN** — automates `slmgr.
 
 ## 📂 Repository Structure
 RAYHAN-Windows-Helper/
+
 ├─ scripts/ # Batch menu entrypoint
+
 ├─ src/ # PowerShell module
+
 ├─ tests/ # Pester test stubs
+
 ├─ .github/workflows/ # Release workflow
+
 ├─ README.md
+
 └─ LICENSE
 
 
