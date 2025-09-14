@@ -1,3 +1,39 @@
+# ⚡ RAYHAN Windows Helper
+
+![GitHub release](https://img.shields.io/github/v/release/rayhanbiswasbd/RAYHAN-Windows-Helper?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+
+A **clean & legal** Windows licensing helper by **RAYHAN** — automates `slmgr.vbs` using your own valid product keys.  
+> ⚖️ No KMS / loader / cracks. 100% safe & legit.
+
+---
+
+## ✨ Features
+- 🔑 Install your genuine product key
+- ⚡ One-click online activation
+- 📜 Check Windows activation status
+- 🗑️ Uninstall current key & clear cache
+- 🗂️ Logs saved to `%ProgramData%\RAYHAN-Helper\log.txt`
+
+---
+
+## 🚀 Quick Start
+1. Download/clone this repo.
+2. Run `scripts/RAYHAN_Windows_Helper.cmd` as **Administrator**.
+3. Choose an option from the menu:
+   - (1) Check activation status  
+   - (2) Install a genuine product key  
+   - (3) Online activation  
+   - (4) Uninstall current key  
+
+---
+
+## 📂 Repository Structure
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm RAYHAN</h1>
 <h3 align="center">🚀 Paid Ads Specialist | Facebook & Google Ads | Founder @ Team RSB Digital</h3>
 
@@ -36,4 +72,17 @@
 
 ---
 
-💬 “Turning Clicks into Clients 🚀 | Helping brands grow with Paid Ads”
+
+---
+
+## 🧑‍💻 Author
+**RAYHAN**  
+🚀 Paid Ads Specialist & Tech Enthusiast  
+🔗 [GitHub Profile](https://github.com/rayhanbiswasbd)
+
+---
+
+## ⚖️ License
+This project is licensed under the **MIT License**.  
+© 2025 **RAYHAN**
+
